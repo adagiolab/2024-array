@@ -1,6 +1,6 @@
 # 2024-array
 
-A collection of samples and materials that have shaped my views in 2024, updated regularly.
+A collection of writing that have shaped my views in 2024, updated regularly.
 
 **Management**
 - [Lessons from Keith Rabois Essay 3: How to be an Effective Executive](https://delian.io/lessons-3)
